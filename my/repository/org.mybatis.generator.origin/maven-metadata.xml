@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>my.repository</groupId>
+  <artifactId>org.mybatis.generator.origin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171021153214</lastUpdated>
+  </versioning>
+</metadata>
